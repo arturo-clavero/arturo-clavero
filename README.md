@@ -27,7 +27,6 @@ During my time at 42 School, I have worked on a variety of projects that have st
 
 ### My Interests and Projects
 Currently, I have particularly enjoyed projects related to Computer Graphics.
-I am now beginning to explore the field of Data Science, motivated by my interest in data analysis and machine learning through online courses and personal projects.
 
 ### GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=arturo-clavero&show_icons=true)
