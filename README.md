@@ -9,7 +9,7 @@
 ### About Me
 
 I am currently studying the Common Core curriculum at 42 School.
-You can check out my school projects here -> https://github.com/42-common-core-arturo
+You can check out my school projects here: https://github.com/42-common-core-arturo
 
 42 School is an innovative programming school that offers a unique approach to learning computer science. Unlike traditional universities, 42 School focuses on a project-based, peer-to-peer learning model with no formal classes or teachers. Students learn by completing various projects, primarily in the C language, to understand fundamental computer science concepts through hands-on coding experience. As students progress, they tackle C++ projects, which lay a solid foundation for learning new programming languages and technologies.
 
